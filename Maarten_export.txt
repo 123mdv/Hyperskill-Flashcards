@@ -1,0 +1,12 @@
+Netherlands
+Amsterdam
+2
+Germany
+Frankfurt
+2
+Italy
+Rome
+2
+United Kingdom
+Windsor
+2
