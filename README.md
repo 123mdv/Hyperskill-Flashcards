@@ -1,4 +1,4 @@
-# Hyperskill Flashcards Project
+# hyperskill-flash-cards-java
 
 This is a Java learning project from Hyperskill/JetBrains Academy, more details here: https://hyperskill.org/projects/44?goal=7
 
