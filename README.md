@@ -1,5 +1,11 @@
 # Hyperskill Flashcards Project
 
-For foreign language learners, it’s hard to remember new words, which is exactly what flashcards are for. Typically, flashcards show a hint (a task or a picture) on one side and the right answer on the other. Flashcards can be used to remember any sort of data, so if you want to create something useful and enhance your programming skills, this project is just right.
+This is a Java learning project from Hyperskill/JetBrains Academy, more details here: https://hyperskill.org/projects/44?goal=7
 
-More details here: https://hyperskill.org/projects/44?goal=7
+In this project, I implemented a command line program that allows people to test their knowledge using flashcards. Users can:
+
+* add and remove cards
+* import cards from and export results to files
+* test themselves
+* find out which card they get wrong most often
+* reset their stats
